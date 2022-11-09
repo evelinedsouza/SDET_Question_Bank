@@ -1,4 +1,4 @@
-#1.	Explain Selenium architecture.
+**#1.	Explain Selenium architecture.**
 
 **Ans.**
 
@@ -30,3 +30,11 @@ If there is a GET request, a response gets generated at the browser.
 It shall be passed via HTTP to the browser driver. 
 Then the browser driver passes it to the IDE with the JSON Wire Protocol.
 
+3. What are the OOPs concepts used in Selenium.
+**Ans**:
+
+#4.  Name all the interfaces used in selenium.
+**Ans**:
+
+#5. What are the different types of wait? Can also be asked as How do you handle synchronisation in selenium?
+**Ans**:
