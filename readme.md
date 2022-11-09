@@ -2,6 +2,6 @@
 
 Below topics are covered:
 
-# Selenium ()
+# Selenium (https://github.com/evelinedsouza/SDET_Interview_QnA_Bank/blob/main/src/Selenium/readme.md)
 # Java ()
 # SQL
