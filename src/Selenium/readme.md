@@ -1,4 +1,5 @@
-**1.	Explain Selenium architecture.**
+#1.	Explain Selenium architecture.
+
 **Ans.**
 
 Selenium webdriver has the following units −
@@ -15,7 +16,9 @@ Selenium webdriver has the following units −
 
 Reference: https://www.interviewbit.com/blog/selenium-architecture/
 
+
 #2. Explain the code Webdriver driver = new Chromedriver(); / Internal working when this line is executed / How does the Selenium WebDriver work?
+
 **Ans.**
 
 Once we trigger our script for execution, the code is converted to an URL via the JSON Wire Protocol over HTTP. 
