@@ -1,4 +1,4 @@
-#1.	Explain Selenium architecture.
+**1.	Explain Selenium architecture.**
 **Ans.**
 
 Selenium webdriver has the following units −
